@@ -1,8 +1,0 @@
-# ninja log v5
-633	681	1687117523910311318	AssemblySimulator	4533731c9ed1032e
-6	633	1687117523858732043	CMakeFiles/AssemblySimulator.dir/main.cpp.o	91b2ed6ea9fec343
-1	58	1687119369027037732	build.ninja	b0566033cee22bde
-6	603	1687119369634345703	CMakeFiles/AssemblySimulator.dir/main.cpp.o	91b2ed6ea9fec343
-603	651	1687119369685774991	AssemblySimulator	4533731c9ed1032e
-6	602	1687119506838786131	CMakeFiles/AssemblySimulator.dir/main.cpp.o	91b2ed6ea9fec343
-602	649	1687119506889385459	AssemblySimulator	4533731c9ed1032e
